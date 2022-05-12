@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'BangaloreAQI'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E0B6388803A64EBDBB2F2C909CCAE966 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_455D5FDB7C074507BDF67715B9189C0B }}
